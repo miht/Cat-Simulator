@@ -1,0 +1,3 @@
+<behaviortree name="Cry">
+  <sequencer name="root"></sequencer>
+</behaviortree>

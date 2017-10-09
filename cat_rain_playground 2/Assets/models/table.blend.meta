@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 5bf538872b21745b8ab6753e57435628
+timeCreated: 1500368677
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: legs
+    100002: legs_001
+    100004: legs_002
+    100006: legs_003
+    100008: lower_board
+    100010: lower_board_frame
+    100012: main_board
+    100014: main_board_frame
+    100016: //RootNode
+    100018: back
+    100020: back_pillows
+    100022: balcony
+    100024: Cube
+    100026: cylinder
+    100028: Empty
+    100030: floor
+    100032: front
+    100034: left_armrest
+    100036: pillars
+    100038: pillars_001
+    100040: Plane
+    100042: Plane_001
+    100044: platform_middle
+    100046: platform_top
+    100048: platform_top_001
+    100050: right_armrest
+    100052: sit_pillows
+    100054: sofa_main
+    100056: Table
+    100058: Toy
+    100060: walls
+    100062: window_frames
+    400000: legs
+    400002: legs_001
+    400004: legs_002
+    400006: legs_003
+    400008: lower_board
+    400010: lower_board_frame
+    400012: main_board
+    400014: main_board_frame
+    400016: //RootNode
+    400018: back
+    400020: back_pillows
+    400022: balcony
+    400024: Cube
+    400026: cylinder
+    400028: Empty
+    400030: floor
+    400032: front
+    400034: left_armrest
+    400036: pillars
+    400038: pillars_001
+    400040: Plane
+    400042: Plane_001
+    400044: platform_middle
+    400046: platform_top
+    400048: platform_top_001
+    400050: right_armrest
+    400052: sit_pillows
+    400054: sofa_main
+    400056: Table
+    400058: Toy
+    400060: walls
+    400062: window_frames
+    2300000: legs
+    2300002: legs_001
+    2300004: legs_002
+    2300006: legs_003
+    2300008: lower_board
+    2300010: lower_board_frame
+    2300012: main_board
+    2300014: main_board_frame
+    2300016: back
+    2300018: back_pillows
+    2300020: balcony
+    2300022: Cube
+    2300024: cylinder
+    2300026: floor
+    2300028: front
+    2300030: left_armrest
+    2300032: pillars
+    2300034: pillars_001
+    2300036: Plane
+    2300038: Plane_001
+    2300040: platform_middle
+    2300042: platform_top
+    2300044: platform_top_001
+    2300046: right_armrest
+    2300048: sit_pillows
+    2300050: sofa_main
+    2300052: Toy
+    2300054: walls
+    2300056: window_frames
+    3300000: legs
+    3300002: legs_001
+    3300004: legs_002
+    3300006: legs_003
+    3300008: lower_board
+    3300010: lower_board_frame
+    3300012: main_board
+    3300014: main_board_frame
+    3300016: back
+    3300018: back_pillows
+    3300020: balcony
+    3300022: Cube
+    3300024: cylinder
+    3300026: floor
+    3300028: front
+    3300030: left_armrest
+    3300032: pillars
+    3300034: pillars_001
+    3300036: Plane
+    3300038: Plane_001
+    3300040: platform_middle
+    3300042: platform_top
+    3300044: platform_top_001
+    3300046: right_armrest
+    3300048: sit_pillows
+    3300050: sofa_main
+    3300052: Toy
+    3300054: walls
+    3300056: window_frames
+    4300000: legs_003
+    4300002: legs_002
+    4300004: legs_001
+    4300006: lower_board
+    4300008: lower_board_frame
+    4300010: main_board_frame
+    4300012: legs
+    4300014: main_board
+    4300016: Plane
+    4300018: walls
+    4300020: balcony
+    4300022: window_frames
+    4300024: Cube
+    4300026: Toy
+    4300028: pillars_001
+    4300030: floor
+    4300032: front
+    4300034: pillars
+    4300036: platform_top_001
+    4300038: platform_middle
+    4300040: cylinder
+    4300042: platform_top
+    4300044: Plane_001
+    4300046: back
+    4300048: back_pillows
+    4300050: left_armrest
+    4300052: right_armrest
+    4300054: sit_pillows
+    4300056: sofa_main
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
